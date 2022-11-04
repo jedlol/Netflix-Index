@@ -17,4 +17,4 @@ Press R to remove a filter, enter filter number
 Press P to print list of Netflix Titles that fall into those filters
 Press Q to quit
 
-![Alt text](/jedlol/Netflix-Index/blob/d67b4a2f5d76c3f29f7924fd1b2ae45b9f8a6563/git_n_sc_1.png?raw=true "Optional Title")
+![alt text](https://github.com/jedlol/Netflix-Index/blob/bde1305ff340ec84b8cf8a1be32a3f53abe9ac44/git_n_sc_1.png?raw=true)

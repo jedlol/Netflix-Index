@@ -18,6 +18,10 @@ Press P to print list of Netflix Titles that fall into those filters
 Press Q to quit
 
 Screenshot 1:
+<p><a>
 ![alt text](https://github.com/jedlol/Netflix-Index/blob/bde1305ff340ec84b8cf8a1be32a3f53abe9ac44/git_n_sc_1.png?raw=true)
+  </a></p>
 Screenshot 2:
+<p><a>
 ![alt text](https://github.com/jedlol/Netflix-Index/blob/bde1305ff340ec84b8cf8a1be32a3f53abe9ac44/git_n_sc_2.png?raw=true)
+  </a></p>

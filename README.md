@@ -16,3 +16,6 @@ Press A to add a filter, can add dates director names, movie names, genres, desc
 Press R to remove a filter, enter filter number
 Press P to print list of Netflix Titles that fall into those filters
 Press Q to quit
+
+
+![alt text](https://github.com/[jedlol]/[Netflix-Index]/blob/[main]/git_n_sc_1.png?raw=true)

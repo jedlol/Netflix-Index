@@ -19,3 +19,4 @@ Press Q to quit
 
 
 ![alt text](https://github.com/[jedlol]/[Netflix-Index]/blob/[main]/git_n_sc_1.png?raw=true)
+?
